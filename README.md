@@ -73,9 +73,9 @@ Dans le terminale
 Static files
    pour les fichier static
       Le URL sera	
-         /static/	
+         - /static/	
       Et le path  
-        /home/donald/ProjetDjango/static  
+        - /home/nom_utilisateur/nom_du_projet/static  
 
 
 
