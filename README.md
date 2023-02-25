@@ -25,7 +25,6 @@ Dans ce tutoriel je vais vous montrer comment deployer une application django su
   6- Creer un environement vituel avec la commande: mkvirtualenv --python=/usr/bin/python.version_de_ton_python nom_de_ton_environement_virtuel
   
   7 Aller dans la partie web
-  
      Bloc code
       -Source code
            /home/ton_non_utilisateur_ici/non_de_ton_projet_ici
@@ -35,8 +34,7 @@ Dans ce tutoriel je vais vous montrer comment deployer une application django su
 
       -Click sur ce lien suivant
         WSGI configuration file:/var/www/donald_pythonanywhere_com_wsgi.py
-        apres avoir click, le fichier wsgi.py souvre copy le code suivant et colle:
-       
+        apres avoir click, le fichier wsgi.py souvre copy le code suivant et colle
        ```
        
             import os
@@ -80,8 +78,7 @@ Dans ce tutoriel je vais vous montrer comment deployer une application django su
               /home/donald/ProjetDjango/static  
               
       
-      BRAVO ICI RECHAREGE TON APPLICATION DANS PYTHONANYWHERE ET 
-      TON APPLICATION SERA DISPONIBLE AU DOMAINE SUIVANT: non_utilisateur.pythonanwhere.com
+      BRAVO ICI RECHAREGE TON APPLICATION DANS PYTHONANYWHERE ET TON APPLICATION SERA DISPONIBLE AU DOMAINE SUIVANT: non_utilisateur.pythonanwhere.com
 
  
 
