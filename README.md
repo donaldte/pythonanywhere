@@ -80,7 +80,8 @@ Dans ce tutoriel je vais vous montrer comment deployer une application django su
               /home/donald/ProjetDjango/static  
               
       
-      BRAVO ICI RECHAREGE TON APPLICATION DANS PYTHONANYWHERE ET TON APPLICATION SERA DISPONIBLE AU DOMAINE SUIVANT: non_utilisateur.pythonanwhere.com
+      BRAVO ICI RECHAREGE TON APPLICATION DANS PYTHONANYWHERE ET 
+      TON APPLICATION SERA DISPONIBLE AU DOMAINE SUIVANT: non_utilisateur.pythonanwhere.com
 
  
 
