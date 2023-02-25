@@ -1,6 +1,6 @@
 # pythonanywhere
 
-# Comment Deployer sur Python Anywhere
+# Comment Deployer sur Python Anywhere Une Application django
 
 Voici le Lien du tutoriel sur youtube qui accompagne cette articles
 
@@ -24,8 +24,8 @@ Dans ce tutoriel je vais vous montrer comment deployer une application django su
   
   6- Creer un environement vituel avec la commande: mkvirtualenv --python=/usr/bin/python.version_de_ton_python nom_de_ton_environement_virtuel
   
-  7 Aller dans la partie web:
-    Code:
+  7 Aller dans la partie web
+    Code
 
       .Source code:
       /home/ton_non_utilisateur_ici/non_de_ton_projet_ici
@@ -59,7 +59,7 @@ Dans ce tutoriel je vais vous montrer comment deployer une application django su
             application = get_wsgi_application()
        
        ```
-       Virtualenv:
+       Virtualenv
         Dans ce block 
         entre le nom de ton environement virtuel cree plus tot
         
@@ -72,7 +72,7 @@ Dans ce tutoriel je vais vous montrer comment deployer une application django su
           Pour les fichiers media rassure toi que que a le MEDIA_ROOT et MEDIA_URL dans le fichier settings
           Rassure toi aussi de mettre DEBUG=Fasle
         
-      Static files: 
+      Static files
          pour les fichier static: 
             Le URL sera	:
                /static/	
