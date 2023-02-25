@@ -6,7 +6,7 @@ Voici le Lien du tutoriel sur youtube qui accompagne cette articles
 
 Dans ce tutoriel je vais vous montrer comment deployer une application django sur pythonanywhere se deploiement se fera en deux parties:
 
- . La premiere partie sera deployer en utilisant le dommaine gratuite et par default que nous donne `pythonanywhere`.
+ - La premiere partie sera deployer en utilisant le dommaine gratuite et par default que nous donne `pythonanywhere`.
  
  - La deuxiemme partie sera l'achat d'un dommaine et le connecter a notre application sur `pythonanywhere`
  
@@ -78,8 +78,35 @@ Dans ce tutoriel je vais vous montrer comment deployer une application django su
                /static/	
             Et le path:   
               /home/donald/ProjetDjango/static  
+              
+      
+      BRAVO ICI RECHAREGE TON APPLICATION DANS PYTHONANYWHERE ET TON APPLICATION SERA DISPONIBLE AU DOMAINE SUIVANT: non_utilisateur.pythonanwhere.com
 
  
 
 # PARTIE 2 ACHETER UN DOMMAINE ET POINTER SUR SON PROJET
+
+ 1 Acheter le domain sur Godady
+ 2 Souscrire a un plan sur python anywhere pour pouvoir changer le domaine de l'application
+ 3 Renomer son application sur python anywhere : www.non_du_domaine.com
+ 4 Copier le CNAME du DNS sur python anywhere
+ 5 Aller sur Godady clicker sur `le domaine` pour clicker sur `manage DNS`
+   - clicker sur `add/ajouter`
+   - choisir CNAME puis pour le HOST mettre `www` pour le pointe/point to mettre `le CNAME que vous avez copier dans pythonanywhere` 
+   - enregistrer
+ 6 Actualiser l'application sur python anywhere et le domaine sur Godady.
+ 
+ Nb: Il est important de noter que la connection domaine peux prendre jusqu'a 24h pour propager le DNS a ton application, Donc sois sans crainte et patiente
+ 
+ 
+     BRAVO TON APPLICATION EST DISPONIBLE SUR UN DOMAINE PERSONNALISE
+     
+  # Contact pour tous problemes   
+  
+    - Email: donaldtedom0@gmail.com
+    - whatsapp: 00237691435485
+  
+    
+ 
+ 
     
