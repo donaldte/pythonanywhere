@@ -103,7 +103,7 @@ Static files
  
      BRAVO TON APPLICATION EST DISPONIBLE SUR UN DOMAINE PERSONNALISE
      
-  # Contact pour tous problemes   
+  # Contact
   
     - Email: donaldtedom0@gmail.com
     - whatsapp: 00237691435485
