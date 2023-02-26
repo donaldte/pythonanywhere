@@ -6,7 +6,7 @@ Voici le Lien du tutoriel sur youtube qui accompagne cette articles
 
 Dans ce tutoriel je vais vous montrer comment deployer une application django sur pythonanywhere se deploiement se fera en deux parties:
 
- - La premiere partie sera deployer en utilisant le dommaine gratuite et par default que nous donne `pythonanywhere`.
+ - La premiere partie sera deployer en utilisant le dommaine gratuit et par default que nous donne `pythonanywhere`.
  
  - La deuxiemme partie sera l'achat d'un dommaine et le connecter a notre application sur `pythonanywhere`
  
