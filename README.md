@@ -31,7 +31,7 @@ Dans ce tutoriel je vais vous montrer comment deployer une application django su
     /home/ton_non_utilisateur_ici/
 
 - Click sur ce lien suivant
-  WSGI configuration file:/var/www/donald_pythonanywhere_com_wsgi.py
+  WSGI configuration file:/var/www/nom_utilisateur_pythonanywhere_com_wsgi.py
   apres avoir click, le fichier wsgi.py souvre copy le code suivant et colle
   
  ```
@@ -62,8 +62,11 @@ Dans ce tutoriel je vais vous montrer comment deployer une application django su
   entre le nom de ton environement virtuel cree plus tot
 
 Dans le terminale
-  1- execute la commande suivante pour collecter les fichiers static:  pythonversion_de_ton_python manage.py collectstatic
-  2  dans le fichier setting rassure toi que tu as le code suivant:
+  1- pip install django
+  2- cd nom_du_projet
+  3- execute la commande suivante pour collecter les fichiers static:  pythonversion_de_ton_python manage.py collectstatic
+  4-  dans le fichier setting rassure toi que tu as le code suivant:
+  
     ```
     STATIC_ROOT = os.path.join(BASE_DIR, "static")
     ```
