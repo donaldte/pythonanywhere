@@ -61,11 +61,11 @@ Dans ce tutoriel je vais vous montrer comment deployer une application django su
   Dans ce block 
   entre le nom de ton environement virtuel cree plus tot
 
-Dans le terminale
-  1- pip install django
-  2- cd nom_du_projet
-  3- execute la commande suivante pour collecter les fichiers static:  pythonversion_de_ton_python manage.py collectstatic
-  4-  dans le fichier setting rassure toi que tu as le code suivant:
+Dans le terminale:
+  1 - pip install django
+  2 - cd nom_du_projet
+  3 - execute la commande suivante pour collecter les fichiers static:  pythonversion_de_ton_python manage.py collectstatic
+  4 -  dans le fichier setting rassure toi que tu as le code suivant:
   
     ```
     STATIC_ROOT = os.path.join(BASE_DIR, "static")
