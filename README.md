@@ -72,6 +72,9 @@ Dans le terminale:
     ```
     Pour les fichiers media rassure toi que que a le MEDIA_ROOT et MEDIA_URL dans le fichier settings
     Rassure toi aussi de mettre DEBUG=Fasle
+    
+Toujours dans le settings copier son domaine et mettre dans le allow_host:
+ ALLOWED_HOSTS = ['nom_utilisateur.pythonanywhere.com']
 
 Static files
    pour les fichier static
