@@ -1,6 +1,6 @@
 # pythonanywhere
 
-# Comment Deployer sur Python Anywhere Une Application django
+# Comment Deployer sur PythonAnywhere Une Application django
 
 Voici le Lien du tutoriel sur youtube qui accompagne cette articles
 
