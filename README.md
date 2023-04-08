@@ -99,7 +99,7 @@ Static files
  3 Renomer son application sur python anywhere : www.non_du_domaine.com
  4 Copier le CNAME du DNS sur python anywhere
  5 Aller sur Godady clicker sur `le domaine` pour clicker sur `manage DNS`
-   - clicker sur `add/ajouter`
+   - clicker sur `Add/ajouter`
    - choisir CNAME puis pour le HOST mettre `www` pour le pointe/point to mettre `le CNAME que vous avez copier dans pythonanywhere` 
    - enregistrer
  6 Actualiser l'application sur python anywhere et le domaine sur Godady.
